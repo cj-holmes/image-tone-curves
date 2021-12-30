@@ -10,7 +10,8 @@
     to images using R
 -   There’s a lot I don’t understand about image processing and colour
     spaces.
--   **This is just a bit of investigative playing**
+-   **This code is very inefficient - it’s more of an
+    investigation/experiment on how to do this**
 
 ``` r
 library(tidyverse)

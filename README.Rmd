@@ -19,8 +19,8 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 * I am experimenting with manually creating and applying tone curves to images using R
-* There's a lot I don't understand about image processing and colour spaces. 
-* **This is just a bit of investigative playing**
+* There's a lot I don't understand about image processing and colour spaces.
+* **This code is very inefficient - it's more of an investigation/experiment on how to do this**
 
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
